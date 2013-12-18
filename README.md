@@ -3,7 +3,7 @@ FTP client for Google Go language
 
 install 
 ========
-go get github.com/smallfish/ftp.go
+go get github.com/tejo/ftp-go
 
 example 
 ========
@@ -13,7 +13,7 @@ package main
 import (                                                                        
     "fmt"                                                                       
     "os"                                                                        
-    "github.com/smallfish/ftp.go"
+    "github.com/tejo/ftp-go"
 )
 
 func main() {                                                                   
